@@ -40,7 +40,7 @@ voice-assistant/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/an-cse-aiml/Voice-Assistant-AI-Powered-
 
 ### 2. Navigate to the folder
 
